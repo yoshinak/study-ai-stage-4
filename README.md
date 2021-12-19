@@ -23,5 +23,5 @@
 - [Section 4: 双方向RNN](https://github.com/yoshinak/study-ai-stage-4/blob/main/day_3_4_bidirectional_rnn.ipynb)
 - [Section 5: Seq2Seq](https://github.com/yoshinak/study-ai-stage-4/blob/main/day_3_5_seq2seq.ipynb)
 - [Section 6: Word2vec](https://github.com/yoshinak/study-ai-stage-4/blob/main/day_3_6_word2vec.ipynb)
-- [Section 7: Attention Mechanism](https://github.com/yoshinak/study-ai-stage-4/blob/main/day_3_7_attention mechanism.ipynb)
+- [Section 7: Attention Mechanism](https://github.com/yoshinak/study-ai-stage-4/blob/main/day_3_7_attention_mechanism.ipynb)
 - [実装演習](https://github.com/yoshinak/study-ai-stage-4/blob/main/day_3_x_exercise.ipynb)
